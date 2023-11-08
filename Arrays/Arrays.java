@@ -5,5 +5,6 @@ class Arrays{
 		System.out.println(ids[1]);
 		System.out.println(ids[2]);
 		System.out.println(ids[3]);
+		System.out.println(ids[20]);
 	}
 }
