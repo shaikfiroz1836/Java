@@ -1,5 +1,4 @@
 package pack2;
-
 import pack1.Account;
 
 public class User {
